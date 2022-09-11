@@ -1,0 +1,8 @@
+.BotoesCalculadora{
+    padding: 10px;
+    margin: 10px;
+}
+.bodyCalculadora{
+    display: flex;
+    justify-content: center;
+}
